@@ -4,10 +4,6 @@
  *  Created on: Jul 17, 2026
  *      Author: irakulkarni
  *
- * Acknowledgement: This project was developed as part of my personal project of STM32F407x 
- * embedded systems programming using an online course. The course provided overall project
- * structure and guidance, while I implemented and tested the peripheral drievrs as part of
- * learning process.
  */
 
 #define INC_STM32F407XX_H_
